@@ -3,18 +3,18 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.blackducksoftware.test</groupId>
-  <artifactId>cveone</artifactId>
+  <artifactId>cvetrial</artifactId>
   <version>0.1.0-SNAPSHOT</version>
 
   <name>Black Duck CoPilot Example for Maven/Travis CI</name>
   <description>Provide an example of configuring a Maven project to use the Black Duck CoPilot application</description>
-  <url>https://github.com/wanlinchua/cveone</url>
+  <url>https://github.com/wanlinchua/cvetrial</url>
   <inceptionYear>2017</inceptionYear>
 
   <scm>
     <connection>scm:git:git://github.com/blackducksoftware/hub-common.git/</connection>
-    <developerConnection>scm:git:git@github.com:wanlinchua/cveone.git</developerConnection>
-    <url>https://github.com/wanlinchua/cveone</url>
+    <developerConnection>scm:git:git@github.com:wanlinchua/cvetrial.git</developerConnection>
+    <url>https://github.com/wanlinchua/cvetrial</url>
   </scm>
 
   <properties>
